@@ -83,6 +83,12 @@ Se emplea **Entity Framework Core** y **SQL Server** para el almacenamiento de d
  dotnet run
 ```
 
+### Link del documento de los pasos del uso de la API
+
+```sh
+ https://docs.google.com/document/d/1y9LAlvl6DFEVtk0Ut2T8OO3EW6OHNdrrgYqDcE20_40/edit?usp=sharing
+```
+
 ---
 
 Creado por Jonathan Alexander Tejada Jiménez
